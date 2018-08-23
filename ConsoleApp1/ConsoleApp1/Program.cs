@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            string console = "Hi this is a new branch";
         }
     }
 }
